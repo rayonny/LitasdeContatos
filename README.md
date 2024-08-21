@@ -1,4 +1,4 @@
-# LitasEncontradas
+# LitasdeContatos
 
 ## Descrição
 Este projeto é uma aplicação Java que gerencia uma lista de contatos utilizando listas encadeadas. Ele foi desenvolvido como parte do trabalho final de sistematização, com foco na implementação de estruturas de dados e algoritmos de busca.
