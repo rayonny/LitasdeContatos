@@ -15,7 +15,7 @@ Este projeto é uma aplicação Java que gerencia uma lista de contatos utilizan
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/rayonny/LitasEncontradas.git
+   git clone https://github.com/rayonny/LitasdeConatatos.git
 javac *.java
 java ContactManager
 Uso
